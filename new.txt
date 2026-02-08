@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9850-7401
+
+ Directory of C:\ShammiTraining
+
+09-02-2026  02:06    <DIR>          .
+08-01-2026  04:07             2,050 .classpath
+01-12-2024  01:24               390 .project
+09-02-2026  02:02    <DIR>          .settings
+09-02-2026  02:02    <DIR>          bin
+09-02-2026  02:08                 0 new.txt
+09-02-2026  02:02    <DIR>          src
+09-02-2026  02:02    <DIR>          test-output
+08-01-2026  01:46               372 testng.xml
+               4 File(s)          2,812 bytes
+               5 Dir(s)  40,831,418,368 bytes free
